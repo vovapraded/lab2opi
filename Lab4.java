@@ -20,4 +20,5 @@ public class Lab4 {
   }
 }
 previous : 9
+previous : 10
 previous : 12
